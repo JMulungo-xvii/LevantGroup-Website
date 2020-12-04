@@ -519,7 +519,7 @@ ul.nostyle i {
     right: 12px;
     border-radius: 50%;
     background-image: -webkit-gradient(linear, left top, right top, from(#2caab3), to(#2c8cb3));
-    background-image: linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);
+    background-image: linear-gradient(90deg, #30406f 0%, #02061a 100%);
     width: 36px;
     height: 36px;
     line-height: 36px;
